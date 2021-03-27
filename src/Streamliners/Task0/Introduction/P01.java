@@ -1,4 +1,4 @@
-package Streamliners.Task0;
+package Streamliners.Task0.Introduction;
 
 //Program to print an integer (entered by the user)
 
