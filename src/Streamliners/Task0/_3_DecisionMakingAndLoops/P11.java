@@ -1,6 +1,7 @@
 package Streamliners.Task0._3_DecisionMakingAndLoops;
 
 //Java Code To Create Pyramid and Pattern
+
 //Program to print half pyramid using *
 //*
 //* *
