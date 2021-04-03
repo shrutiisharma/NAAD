@@ -1,4 +1,4 @@
-package Streamliners.Task0._Arrays_;
+package Streamliners.Task0._4_Arrays_;
 
 //Program to Calculate Average Using Arrays
 
