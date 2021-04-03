@@ -8,6 +8,6 @@ Jump to the list of  programs done by me:
 
 3. [Decision Making and Loops](https://github.com/shrutiisharma/NAAD/tree/master/src/Streamliners/Task0/_3_DecisionMakingAndLoops)
 
-4. Arrays
+4. [Arrays](https://github.com/shrutiisharma/NAAD/tree/master/src/Streamliners/Task0/_4_Arrays_)
 
-5. Strings
+5. [Strings](https://github.com/shrutiisharma/NAAD/tree/master/src/Streamliners/Task0/_5_Strings)
