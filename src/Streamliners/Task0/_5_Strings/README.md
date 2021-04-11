@@ -23,5 +23,3 @@ P08. [Program to Differentiate String == operator and equals() method](https://g
 P09. [Program to Implement switch statement on strings](https://github.com/shrutiisharma/NAAD/blob/master/src/Streamliners/Task0/_5_Strings/P09.java)
 
 P10. [Program to Check if a string contains a substring](https://github.com/shrutiisharma/NAAD/blob/master/src/Streamliners/Task0/_5_Strings/P10.java)
-
-
