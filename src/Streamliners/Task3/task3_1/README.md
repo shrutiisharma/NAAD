@@ -85,5 +85,3 @@ in class SpecialProduct as follows :
 - Create a new package inside src folder named “task3_1” and place all of the files for this task in it
 
 - Push the code to GitHub & Submit using GCR
-
-
