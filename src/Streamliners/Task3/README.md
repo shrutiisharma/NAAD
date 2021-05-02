@@ -13,8 +13,8 @@
 - [Interface](https://www.programiz.com/java-programming/interfaces)
 
 - [super keyword](https://www.programiz.com/java-programming/super-keyword)
-
-**
+  
+  
 
 ## Assignments
 
@@ -24,4 +24,6 @@
 
 - [Task 3.3 (TouristPlace class)](https://docs.google.com/document/d/1TZnod1CMYJ2xNKohqQikfeKZVGi3erdUzm7wJoJHsWM)
 
-**
+
+
+
