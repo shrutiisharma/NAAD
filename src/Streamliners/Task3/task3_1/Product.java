@@ -40,7 +40,16 @@ public class Product
     public boolean equals(Object obj)
     {
         Product product = (Product)obj;
+        return this.name.equals(product.name) && this.price == product.price;
+    }
+
+    /*
+    @Override
+    public boolean equals(Object obj)
+    {
+        Product product = (Product)obj;
         boolean isEqual = this.name.equals(product.name) && this.price == product.price;
         return isEqual;
     }
+     */
 }
