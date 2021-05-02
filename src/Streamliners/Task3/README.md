@@ -13,8 +13,6 @@
 - [Interface](https://www.programiz.com/java-programming/interfaces)
 
 - [super keyword](https://www.programiz.com/java-programming/super-keyword)
-  
-  
 
 ## Assignments
 
@@ -22,8 +20,6 @@
 
 - [Task 3.2 (GroceryItem class)](https://github.com/shrutiisharma/NAAD/tree/master/src/Streamliners/Task3/task3_2)
 
-- [Task 3.3 (TouristPlace class)](https://docs.google.com/document/d/1TZnod1CMYJ2xNKohqQikfeKZVGi3erdUzm7wJoJHsWM)
-
-
+- [Task 3.3 (TouristPlace class)](https://github.com/shrutiisharma/NAAD/tree/master/src/Streamliners/Task3/task3_3)
 
 
